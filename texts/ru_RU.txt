@@ -4,3 +4,4 @@ wheat seed=семена пшеницы
 wheat base=Пшеница
 wheat=Пшеница
 fertilizer=удобрение
+carrot=морковь

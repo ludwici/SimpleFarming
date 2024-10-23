@@ -7,7 +7,8 @@ EasyLib:mixin(base_fertilizer, fertilizer)
 
 function base_fertilizer:get_plant_family()
     return {
-        "simplefarming:wheat_stage"
+        "simplefarming:wheat_stage",
+        "simplefarming:carrot_stage",
     }
 end
 

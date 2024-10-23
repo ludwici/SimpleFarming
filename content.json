@@ -2,20 +2,26 @@
   "blocks": [
     "farmland",
     "wheat_base",
+    "wheat_stage0",
     "wheat_stage1",
     "wheat_stage2",
-    "wheat_stage0",
     "wheat_stage3",
     "wheat_stage4",
     "wheat_stage5",
     "wheat_stage6",
-    "wheat_stage7"
+    "wheat_stage7",
+    "carrot_stage0",
+    "carrot_stage1",
+    "carrot_stage2",
+    "carrot_stage3",
+    "carrot_base"
   ],
   "items": [
     "hoe",
     "wheat_seed",
     "wheat",
-    "fertilizer"
+    "fertilizer",
+    "carrot"
   ],
   "entities": []
 }

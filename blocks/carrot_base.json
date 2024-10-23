@@ -1,0 +1,11 @@
+{
+    "material": "base:grass",
+    "light-passing": true,
+    "obstacle": false,
+    "replaceable": true,
+    "grounded": false,
+    "model": "X",
+    "script-name": "carrot_crop",
+    "hidden": true,
+    "picking-item": "simplefarming:carrot"
+}

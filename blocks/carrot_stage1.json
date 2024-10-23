@@ -1,0 +1,6 @@
+{
+    "parent": "simplefarming:carrot_base",
+    "hitbox": [0.0, 0.0, 0.0, 1.0, 0.2, 1.0],
+    "model": "X",
+    "texture": "carrot_stage1"
+}
