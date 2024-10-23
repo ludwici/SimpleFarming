@@ -1,0 +1,4 @@
+-- function on_block_broken(blockid, x, y, z, playerid)
+--     -- local age = get_age(x, y, z)
+--     print("on_block_broken")
+-- end

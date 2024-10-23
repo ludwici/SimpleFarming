@@ -1,0 +1,7 @@
+{
+    "id": "simplefarming",
+    "title": "Simple Farming",
+    "version": "1.0",
+    "creator": "ludwici",
+    "dependencies": ["easylib"]
+}

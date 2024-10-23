@@ -1,0 +1,11 @@
+{
+    "material": "base:grass",
+    "light-passing": true,
+    "obstacle": false,
+    "replaceable": true,
+    "grounded": false,
+    "model": "X",
+    "script-name": "wheat_block",
+    "hidden": true,
+    "picking-item": "simplefarming:wheat_seed"
+}

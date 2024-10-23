@@ -1,0 +1,13 @@
+{
+    "material": "base:grass_block",
+    "texture-faces": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "farmland_top",
+        "dirt",
+        "dirt"
+    ],
+    "model": "aabb",
+    "hitbox": [0, 0, 0, 1.0, 0.9, 1.0]
+}
