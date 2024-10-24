@@ -4,6 +4,8 @@ local usable_item = require "easylib:items/usable_item"
 local carrot = {}
 EasyLib:mixin(carrot, usable_item)
 
+carrot.decrease_count = true
+
 function carrot:get_conditions_for_use(x, y, z, playerid)
     if EasyLib:has_block_above(x, y, z) then
         return false
