@@ -20,7 +20,8 @@
     "hoe",
     "wheat_seed",
     "wheat",
-    "fertilizer",
+    "fertilizer_harvest",
+    "fertilizer_speed",
     "carrot"
   ],
   "entities": []

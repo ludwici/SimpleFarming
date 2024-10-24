@@ -3,5 +3,6 @@ hoe=мотыга
 wheat seed=семена пшеницы
 wheat base=Пшеница
 wheat=Пшеница
-fertilizer=удобрение
+fertilizer harvest=удобрение урожая
+fertilizer speed=удобрение скорости
 carrot=морковь
