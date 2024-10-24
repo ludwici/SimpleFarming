@@ -28,7 +28,7 @@ function carrot_crop:get_base_block_name()
 end
 
 function on_placed(x, y, z, playerid)
-    carrot_crop:update_states(x, y, z)
+    carrot_crop:unpack_states(x, y, z)
 end
 
 function on_random_update(x, y, z)

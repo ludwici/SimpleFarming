@@ -22,5 +22,5 @@ function on_use_on_block(x, y, z, playerid)
         return
     end
 
-    block.set(x, y, z, block.index("simplefarming:farmland"), 0)
+    block.place(x, y, z, block.index("simplefarming:farmland"), 0)
 end

@@ -30,7 +30,7 @@ function wheat_crop:has_harvest(x, y, z, playerid)
 end
 
 function on_placed(x, y, z, playerid)
-    wheat_crop:update_states(x, y, z)
+    wheat_crop:unpack_states(x, y, z)
 end
 
 function on_random_update(x, y, z)
